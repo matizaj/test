@@ -8,5 +8,6 @@ namespace RepositoryUsage.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
         public string TestProp1 { get; set; }
+        public string AppModelClassBranch { get; set; }
     }
 }
