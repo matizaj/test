@@ -7,6 +7,6 @@ namespace RepositoryUsage.Models
         public string RequestId { get; set; }
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
-        public string TestProp2 { get; set; }
+        public string TestProp1 { get; set; }
     }
 }
