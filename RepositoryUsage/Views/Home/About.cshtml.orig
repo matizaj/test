@@ -1,0 +1,20 @@
+﻿@{
+<<<<<<< HEAD
+    ViewData["Title"] = "Aboutdfgdfgdgf";
+=======
+    ViewData["Title"] = "AboutMoreOrLess";
+>>>>>>> adding changes trouble
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<<<<<<< HEAD
+<p>Use this area to provide additional information.gdfggd</p>
+<p>changes from my feature</p>
+<p>rebasing changesxvdfgdfg</p>
+=======
+<p>Use this area to provide additional information.DUPA</p>
+<p>changes from my feature</p>
+<p>rebasing changes trouble asdsasadsdasd</p>
+<h1>takie tam</h1>
+>>>>>>> adding changes trouble
